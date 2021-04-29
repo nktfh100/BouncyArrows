@@ -1,0 +1,7 @@
+
+bounciness: 0.85
+
+max-bounces: 5
+
+# Arrows with speed less than this will stop bouncing
+arrow-min-speed: 0.7
